@@ -1,2 +1,6 @@
 #!/bin/bash
--rwxr-xr-x@ 1 sylvain staff 18 Jan 25 00:19 0-current_working_directory
+-rwxr-xr-x 1 996 992 16 0-current_working_directory
+-rwxr-xr-x 1 996 992 61 1-listit
+-rwxr-xr-x 1 996 992 17 2-bring_me_home
+-rwxr-xr-x 1 996 992 84 3-listfiles
+-rw-r--r-- 1 996 992 13 README.md
