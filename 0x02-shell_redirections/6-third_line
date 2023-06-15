@@ -1,3 +1,2 @@
 #!/bin/bash
-file="iacta"
-line_number=3
+tail /etc/passwd
